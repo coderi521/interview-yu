@@ -1,4 +1,3 @@
-### 什么是虚拟列表（Virtual List）？它的实现原理是什么？
 
 一、什么是虚拟列表（Virtual List）？
 虚拟列表（Virtual List / Virtual Scrolling / Windowing） 是一种“长列表渲染性能优化”技术：
