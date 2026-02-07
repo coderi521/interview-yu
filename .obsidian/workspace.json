@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "力扣/283. 移动零.md",
+                "file": "力扣/42. 接雨水.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "283. 移动零"
+              "title": "42. 接雨水"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "5a64e2bf0f28e8bb",
   "lastOpenFiles": [
-    "力扣/15. 三数之和.md",
+    "Pasted image 20260207150259.png",
     "力扣/283. 移动零.md",
+    "力扣/42. 接雨水.md",
+    "力扣/15. 三数之和.md",
     "力扣/11. 盛最多水的容器.md",
     "八股-rain/https和http的区别.md",
     "agent开发/AI Agent 和前端、服务端的交互协议或格式.md",
