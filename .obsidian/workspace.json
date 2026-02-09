@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股-rain/https和http的区别.md",
+                "file": "八股-rain/说说你对 requestAnimationFrame 的理解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "https和http的区别"
+              "title": "说说你对 requestAnimationFrame 的理解"
             }
           }
         ]
@@ -194,8 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b31011674d5bbf00",
+  "active": "5a64e2bf0f28e8bb",
   "lastOpenFiles": [
+    "未命名.md",
+    "八股-rain/说说你对 requestAnimationFrame 的理解.md",
+    "八股-rain/https和http的区别.md",
     "力扣/560. 和为 K 的子数组.md",
     "力扣/438. 找到字符串中所有字母异位词.md",
     "力扣/42. 接雨水.md",
@@ -206,7 +209,6 @@
     "力扣/11. 盛最多水的容器.md",
     "Pasted image 20260207150259.png",
     "agent开发/AI Agent 和前端、服务端的交互协议或格式.md",
-    "八股-rain/https和http的区别.md",
     "Pasted image 20260204133024.png",
     "工程化/webpack的打包原理.md",
     "什么是webpack.md",
