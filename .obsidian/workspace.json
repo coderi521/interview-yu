@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股-rain/说说你对 requestAnimationFrame 的理解.md",
+                "file": "力扣/53. 最大子数组和.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "说说你对 requestAnimationFrame 的理解"
+              "title": "53. 最大子数组和"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "5a64e2bf0f28e8bb",
   "lastOpenFiles": [
-    "未命名.md",
     "八股-rain/说说你对 requestAnimationFrame 的理解.md",
+    "力扣/53. 最大子数组和.md",
+    "未命名.md",
     "八股-rain/https和http的区别.md",
     "力扣/560. 和为 K 的子数组.md",
     "力扣/438. 找到字符串中所有字母异位词.md",
