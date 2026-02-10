@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d10950d209ea97a3",
+        "id": "c52cc2828e3d05ad",
         "type": "tabs",
         "children": [
           {
-            "id": "eb9cfa0090661059",
+            "id": "6c4964912ba1cc57",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "力扣/239. 滑动窗口最大值.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "239. 滑动窗口最大值"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb9cfa0090661059",
+  "active": "0aeb600883a0e27b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "力扣/53. 最大子数组和.md",
     "力扣/128. 最长连续序列.md",
     "力扣/239. 滑动窗口最大值.md",
     "力扣/76. 最小覆盖子串.md",
