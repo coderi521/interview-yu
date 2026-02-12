@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "9fe19553526aca03",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260204133024.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260204133024"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0aeb600883a0e27b",
+  "active": "9fe19553526aca03",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "力扣/未命名.md",
+    "力扣/56. 合并区间.md",
     "力扣/img/report-1770799534384.png",
     "力扣/img",
     "力扣/53. 最大子数组和.md",
-    "力扣/未命名.md",
-    "conflict-files-obsidian-git.md",
     "力扣/76. 最小覆盖子串.md",
     "八股-rain/说说你对 requestAnimationFrame 的理解.md",
     "未命名.md",
