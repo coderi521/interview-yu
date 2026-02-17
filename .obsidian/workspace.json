@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "力扣/128. 最长连续序列.md",
-                "mode": "source",
+                "file": "力扣/189. 轮转数组.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "128. 最长连续序列"
+              "title": "189. 轮转数组"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "9fe19553526aca03",
   "lastOpenFiles": [
+    "力扣/128. 最长连续序列.md",
     "力扣/189. 轮转数组.md",
     "未命名.base",
     "力扣/56. 合并区间.md",
