@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "力扣/54. 螺旋矩阵.md",
+                "file": "力扣/48. 旋转图像.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "54. 螺旋矩阵"
+              "title": "48. 旋转图像"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "5a64e2bf0f28e8bb",
   "lastOpenFiles": [
-    "力扣/73. 矩阵置零.md",
+    "Pasted image 20260219230834.png",
     "力扣/54. 螺旋矩阵.md",
+    "力扣/48. 旋转图像.md",
+    "力扣/73. 矩阵置零.md",
     "力扣/41. 缺失的第一个正数.md",
     "力扣/238. 除了自身以外数组的乘积.md",
     "力扣/189. 轮转数组.md",
@@ -224,8 +226,6 @@
     "力扣/15. 三数之和.md",
     "力扣/11. 盛最多水的容器.md",
     "Pasted image 20260207150259.png",
-    "agent开发/AI Agent 和前端、服务端的交互协议或格式.md",
-    "工程化/webpack的打包原理.md",
-    "什么是webpack.md"
+    "agent开发/AI Agent 和前端、服务端的交互协议或格式.md"
   ]
 }
