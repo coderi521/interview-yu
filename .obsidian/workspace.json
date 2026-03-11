@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "八股-rain/有没有看过vue的源码，请给出一个需要看源码解决的业务问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "有没有看过vue的源码，请给出一个需要看源码解决的业务问题"
             }
           }
         ],
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0848785a005a40a3",
+  "active": "0aeb600883a0e27b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "八股-rain/有没有看过vue的源码，请给出一个需要看源码解决的业务问题.md",
